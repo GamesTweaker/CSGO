@@ -1,15 +1,15 @@
 # CSGO
 
--console
+**-console**
 This option will open the console automatically when opening the game.
 
--novid
+**-novid**
 This option removes starting intro.
 
--tickrate 128
+**-tickrate 128**
 This option allow you to play local at tickrate 128.
 
--refresh <rate> / -refreshrate <rate> / -freq <rate>
+**-refresh <rate> / -refreshrate <rate> / -freq <rate>**
 This option allows you to force monitor refresh rate. 
 This only makes sense if your monitors maximum refreshrate is higher than 60. 
 
